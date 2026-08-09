@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aratishinde18/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/aratishinde18/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aratishinde18/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/aratishinde18/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aratishinde18/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aratishinde18/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aratishinde18/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aratishinde18/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
