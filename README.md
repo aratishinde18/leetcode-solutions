@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aratishinde18/leetcode-solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/aratishinde18/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aratishinde18/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/aratishinde18/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/aratishinde18/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aratishinde18/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/aratishinde18/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aratishinde18/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/aratishinde18/leetcode-solutions/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/aratishinde18/leetcode-solutions/tree/master/0409-longest-palindrome) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/aratishinde18/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
