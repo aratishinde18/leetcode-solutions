@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aratishinde18/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/aratishinde18/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/aratishinde18/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [3693-climbing-stairs-ii](https://github.com/aratishinde18/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aratishinde18/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/aratishinde18/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [3693-climbing-stairs-ii](https://github.com/aratishinde18/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Sliding Window
 |  |
 | ------- |
