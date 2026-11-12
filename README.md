@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aratishinde18/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/aratishinde18/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/aratishinde18/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aratishinde18/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/aratishinde18/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
